@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    background-color: #FFF;
+    height: 100px;
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    border-bottom: solid rgb(83, 40, 2) 8px;
+}
+
+.pesquisa {
+    display: flex;
+    align-items: center;
+    margin-left: 50%;
+}
+
+#lupa {
+    background: url("./lupa.png") no-repeat right / 15px;
+    background-color: #C8C8C8;
+    border-radius: 10px;
+    width: 200px;
+    padding-left: 15px;
+    border: 0cm;
+}
+
+body{
+    background-color: #FFD43E;
+}
+.corpo {
+    background-color: #FFD43E;
+    height: 87vb;
+    width: 100%;
+}
+
+.brasil,
+.carrinho,
+.user
+ {
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+}
+
+.mm {
+    position: absolute;
+    right: 45%;
+    top: 5%;
+}
+
+.barralateralesquerda{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.barralateraldireita{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.slid1{
+    width: 300px;
+    border-radius: 100px;
+    background-color: #ffeba4;
+    padding: 30px;
+    }
+
+.slid2{
+    width: 300px;
+    border-radius: 150px;
+    background-color: #ffeba4;
+    padding: 30px;
+  
+}
+
+.slid3{
+    width: 300px;
+    border-radius: 150px;
+    background-color: #ffeba4;
+    padding: 30px;
+ 
+}
+
+.carousel{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    top: 60px; 
+}
+
+.produto1{
+    width: 550px;
+    border-radius: 150px;
+    background-color: #ffeba4;
+    padding: 30px;
+}
+.produto2{
+    width: 550px;
+    border-radius: 150px;
+    background-color: #ffeba4;
+    padding: 30px;
+}
+.produto3{
+    width: 550px;
+    border-radius: 150px;
+    background-color: #ffeba4;
+    padding: 30px;
+}
+
+.imagem1{
+    width: 200px;
+    position: absolute;
+    bottom: 300px;
+    left: 100px;
+    text-align: center;
+}
+.imagem2{
+    width: 600px;
+    position: absolute;
+    bottom: 200px;
+    left: 100px;
+    text-align: center;
+
+}
+.imagem3{
+    width: 1000px;
+    position: absolute;
+    bottom: 300px;
+    left: 100px;
+    text-align: center;
+
+}
+.imagem4{
+    width: 1400px;
+    position: absolute;
+    bottom: 200px;
+    left: 100px;
+    text-align: center;
+}
+.imagem5{
+    width: 1800px;
+    position: absolute;
+    bottom: 300px;
+    left: 100px;
+    text-align: center;
+}
+.imagem6{
+    width: 2200px;
+    position: absolute;
+    bottom: 200px;
+    left: 100px;
+    text-align: center;
+
+}
+
+
+.corpoProduto {
+    background-color: #229e62;
+    height: 87vb;
+    width: 100%;
+}
+
+.corpoProduto h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(255, 255, 255, 0.938);
+}
+.contato-page{
+    margin-top: 40%;
+    border: solid black 2px;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: rgb(166, 237, 191);
+    -webkit-box-shadow: 24px 30px 89px 30px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px 30px 89px 30px rgba(0,0,0,0.75);
+     box-shadow: 24px 30px 89px 30px rgba(0,0,0,0.75);
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black
+}
+
+.corpoContato{
+    background-color: FFD43E
+}
+
